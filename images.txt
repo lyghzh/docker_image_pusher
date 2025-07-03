@@ -5,6 +5,6 @@ bitnami/etcd:3.5
 apache/apisix:latest
 apache/apisix-dashboard:latest
 apache/apisix-ingress-controller:latest
-openjdk:17
+openjdk:17-jdk-alpine
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
